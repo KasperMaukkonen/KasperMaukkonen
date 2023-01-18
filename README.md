@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kasper</h1>
 <h3 align="center">Studying IT</h3>
 
+- 🌱 I’m currently learning **Java and C#**
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
